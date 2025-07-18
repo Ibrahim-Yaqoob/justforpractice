@@ -1,2 +1,2 @@
 # justforpractice
-this is learning time  for git &amp; github
+this is learning time  for git &amp; github.
